@@ -1,7 +1,7 @@
 # RemindME!
 
-## Description
-This is a simple reminder project designed to help users keep track of tasks, events, or any other important information they need to remember. Users can add, delete, and update reminders as needed.
+## About
+ReminME! is a simple reminder project designed to help users keep track of tasks, events, or any other important information they need to remember. Users can add, delete, and update reminders as needed.
 
 ## Technologies Used
 - Node.js (runtime environment)
@@ -18,7 +18,7 @@ npm install
 ````
 npm start
 ````
-4 Navigate to the frontend directory.
+4. Navigate to the frontend directory.
 5. Install frontend dependencies and start application by running:
 ````
 npm install
