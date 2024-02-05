@@ -1,7 +1,7 @@
 # RemindME!
 
 ## About
-ReminME! is a simple reminder project designed to help users keep track of tasks, events, or any other important information they need to remember. Users can add, delete, and update reminders as needed.
+RemindME! is a simple reminder project designed to help users keep track of tasks, events, or any other important information they need to remember. Users can add, delete, and update reminders as needed.
 
 ## Technologies Used
 - Node.js (runtime environment)
