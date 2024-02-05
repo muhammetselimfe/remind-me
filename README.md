@@ -37,5 +37,11 @@ npm run dev
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
+## Todo
+* Add delete reminder feature.
+* Add update/edit reminder feature.
+* Integrate MongoDB.
+* Add unit and E2E tests.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
